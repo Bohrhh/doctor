@@ -1,0 +1,39 @@
+Boyu Zhou
+香港科技大学
+机器人运动规划，稠密建图，分布式机器人系统
+RAPTOR: Robust and Perception-aware Trajectory Replanning for Quadrotor Fast Flight
+FUEL: Fast UAV Exploration using Incremental Frontier Structure and Hierarchical Planning
+Robust and Efficient Quadrotor Trajectory Generation for Fast Autonomous Flight
+Teach-Repeat-Replan: A Complete and Robust System for Aggressive Flight in Complex Environments
+Optimal Trajectory Generation for Quadrotor Teach-and-Repeat
+bzhouai@connect.ust.hk  uv.boyuzhou@gmail.com;
+https://boyuzhou.net/
+2022
+
+宋林
+西安交通大学
+语义分割，目标检测
+%20stevengrove@stu.xjtu.edu.cn
+https://linsong.me/
+2024
+
+陈玉康
+香港中文大学
+Efficient Deep Learning and AutoML
+yukangchen@cse.cuhk.edu.hk
+https://scholar.google.com/citations?user=6p0ygKUAAAAJ&hl=en
+2025
+
+李彦玮
+香港中文大学
+Computer Vision and Machine Intelligence
+ywli@cse.cuhk.edu.hk
+https://yanwei-li.com/
+2024
+
+
+Hengshuang Zhao
+牛津大学
+computer vision, machine learning and artificial intelligence
+hengshuangzhao@gmail.com  hengshuang.zhao@eng.ox.ac.uk
+https://hszhao.github.io/
